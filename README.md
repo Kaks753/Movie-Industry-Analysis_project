@@ -1,5 +1,5 @@
 
-# 🎬 Stephen's In-Depth Analysis of Box Office Films
+# 🎬 In-Depth Analysis of Box Office Films
 
 ## About This Project
 
